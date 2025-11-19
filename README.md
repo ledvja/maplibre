@@ -1,3 +1,3 @@
 # maplibre
 
-Toto je cvičení z VYEO na knihovnu Maplibre
+Toto je cvičení z VYGEO na knihovnu Maplibre
